@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WXWCategory (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WXWCategory (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WXWCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WXWCategory: 98b57d57b1fe558c3d999f6e0c385e603dfb0e76
+
+PODFILE CHECKSUM: 4582ed3ce80b58107a71e07aebab2d973e9c191d
+
+COCOAPODS: 1.7.2

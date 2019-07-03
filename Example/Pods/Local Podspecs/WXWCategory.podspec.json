@@ -1,0 +1,22 @@
+{
+  "name": "WXWCategory",
+  "version": "0.1.0",
+  "summary": "A short description of WXWCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hwxue/WXWCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hwxue": "2609386917@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hwxue/WXWCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WXWCategory/Classes/**/*"
+}

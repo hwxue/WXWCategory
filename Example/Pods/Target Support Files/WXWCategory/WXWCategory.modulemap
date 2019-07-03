@@ -1,0 +1,6 @@
+framework module WXWCategory {
+  umbrella header "WXWCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
